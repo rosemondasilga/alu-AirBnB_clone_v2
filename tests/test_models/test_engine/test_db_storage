@@ -1,0 +1,8 @@
+#!/usr/bin/python3
+
+import unittest
+
+class TestCase(unittest.TestCase):
+	def test_case(self):
+
+		pass
